@@ -136,9 +136,7 @@ renderCart();
 
 
 // Example: Adding initial items to the cart
-addToCart(1);
-addToCart(2);
-addToCart(3);
+
 
 
 
